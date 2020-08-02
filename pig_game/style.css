@@ -1,6 +1,4 @@
-/**********************************************
-*** GENERAL
-**********************************************/
+
 
 .goal-score{
     position: absolute;
@@ -158,7 +156,7 @@ i {
 .btn-score{top:120px;}
 .input-score{top:80px;}
 
-.dice {
+.dice1 {
     position: absolute;
     left: 50%;
     top: 148px;
