@@ -2,7 +2,7 @@
 
 자바스크립트를 이용한 1대1 돼지게임
 
-[바로가기](https://5d5ng.github.io/Pig_Game/pig_game/index.html)
+[바로가기](https://piggame1vs1.netlify.app)
 
 
 ## 게임 규칙
